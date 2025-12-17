@@ -1,4 +1,4 @@
-package es.fpsumma.dam2.api.ui.screen.tareas
+/*package es.fpsumma.dam2.api.ui.screen.tareas
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.layout.Column
@@ -120,4 +120,4 @@ fun ListadoTareasScreen(
 
         }
     }
-}
+}*/
